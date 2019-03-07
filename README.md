@@ -1,2 +1,2 @@
 # Node Training 
-[Basics](01-basics/README)
+[Basics](01-basics/README.md)
